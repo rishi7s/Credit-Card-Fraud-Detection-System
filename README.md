@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection System
 ### BUSINESS PROBLEM
 Payment card fraud is a growing concern around the world, not only for financial institutions, but also for individuals whose identities may be stolen to commit the fraud. Payment card fraud can be broadly classified into two categories:
 1.	Application Fraud 
